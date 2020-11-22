@@ -1,4 +1,4 @@
-# youtube-unsubscribe
+# youtube-unsubscribed
 
 Step 1: Go to https://www.youtube.com/feed/channels and scroll to the bottom of the page to populate all items to the screen.
 
